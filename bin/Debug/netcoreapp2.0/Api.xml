@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CoreREST</name>
+    </assembly>
+    <members>
+        <member name="M:UserController.Get(System.String)">
+            <summary>
+            查詢使用者清單
+            </summary>
+            <param name="q">查詢使用者名稱</param>
+            <returns>使用者清單</returns>
+        </member>
+    </members>
+</doc>

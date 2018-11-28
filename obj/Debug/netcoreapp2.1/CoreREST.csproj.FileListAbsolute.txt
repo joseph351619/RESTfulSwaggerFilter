@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\CoreREST\bin\Debug\netcoreapp2.1\CoreREST.deps.json
+C:\Users\USER\Desktop\CoreREST\bin\Debug\netcoreapp2.1\CoreREST.runtimeconfig.json
+C:\Users\USER\Desktop\CoreREST\bin\Debug\netcoreapp2.1\CoreREST.runtimeconfig.dev.json
+C:\Users\USER\Desktop\CoreREST\bin\Debug\netcoreapp2.1\CoreREST.dll
+C:\Users\USER\Desktop\CoreREST\bin\Debug\netcoreapp2.1\CoreREST.pdb
+C:\Users\USER\Desktop\CoreREST\bin\Debug\netcoreapp2.1\Api.xml
+C:\Users\USER\Desktop\CoreREST\obj\Debug\netcoreapp2.1\CoreREST.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\CoreREST\obj\Debug\netcoreapp2.1\CoreREST.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CoreREST\obj\Debug\netcoreapp2.1\CoreREST.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\CoreREST\obj\Debug\netcoreapp2.1\CoreREST.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\CoreREST\obj\Debug\netcoreapp2.1\CoreREST.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CoreREST\obj\Debug\netcoreapp2.1\CoreREST.AssemblyInfo.cs
+C:\Users\USER\Desktop\CoreREST\obj\Debug\netcoreapp2.1\CoreREST.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Desktop\CoreREST\obj\Debug\netcoreapp2.1\CoreREST.dll
+C:\Users\USER\Desktop\CoreREST\obj\Debug\netcoreapp2.1\CoreREST.pdb
